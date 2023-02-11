@@ -2,9 +2,6 @@ import React, { Component } from "react";
 
 class About extends Component {
   render() {
-    if (this.props.sharedBasicInfo) {
-      var profilepic = "https://ik.imagekit.io/ctraedfvm/myProfile.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1676140943908";
-    }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
@@ -22,7 +19,7 @@ class About extends Component {
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
                   <img                  
-                    src={profilepic}
+                    src="https://ik.imagekit.io/ctraedfvm/myProfile.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1676140943908"
                     alt="Mahesh Paliwal"
                   />
                 </span>
