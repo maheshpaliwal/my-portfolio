@@ -4,7 +4,6 @@ import AwesomeSlider from "react-awesome-slider";
 import AwesomeSliderStyles from "../scss/light-slider.scss";
 import AwesomeSliderStyles2 from "../scss/dark-slider.scss";
 import "react-awesome-slider/dist/custom-animations/scale-out-animation.css";
-import { Player } from 'video-react';
 class ProjectDetailsModal extends Component {
   render() {
     if (this.props.data) {
@@ -38,7 +37,7 @@ class ProjectDetailsModal extends Component {
           if (videos?.length) {
             var vid = []
             videos.forEach((element, index) => {
-              vid.push(<iframe width={'45%'} style={index == 0 ? {marginRight: "10%"} : {}} src={element} title="Global Summit for Node.js'23 – Junior Track" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowfullscreen></iframe>)
+              vid.push(<iframe width={'45%'} style={index === 0 ? {marginRight: "10%"} : {}} src={element} title="Global Summit for Node.js'23 – Junior Track" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowfullscreen></iframe>)
             });
 
 
