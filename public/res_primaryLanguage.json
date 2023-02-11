@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hello",
-    "description": "👋 I'm Mahesh Paliwal a passionate backend engineer, problem solver, entrepreneur, and explorer.With a passion for innovation and a talent for finding solutions to complex problems. As an entrepreneur, I have created innovative products that have made a positive impact on people's lives.When not building businesses or solving problems, I can be found exploring the world, seeking out new adventures and experiences. ❤️ ",
+    "description": "👋 I'm Mahesh Paliwal a passionate backend engineer, problem solver, entrepreneur, and explorer.With a passion for innovation and a talent for finding solutions to complex problems. As an entrepreneur, I have created innovative products that have made a positive impact on people's lives. When not building businesses or solving problems, I can be found exploring the world, seeking out new adventures and experiences. ❤️ ",
     "section_name": {
       "about": "About me",
       "projects": "Recent Work",
@@ -153,7 +153,7 @@
     {
       "company": "Oye Rickshaw",
       "title": "Software Engineer",
-      "years": "10.2019 - 05.2020",
+      "years": "10.2019 - 12.2020",
       "mainTech": [
         "Nodejs", "Express", "MySQL", "Kafka"
       ],
