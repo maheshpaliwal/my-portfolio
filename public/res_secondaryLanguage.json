@@ -1,0 +1,217 @@
+{
+  "basic_info": {
+    "description_header": "नमस्ते",
+    "description": "👋 मैं महेश पालीवाल एक बैकएंड इंजीनियर, समस्या समाधानकर्ता, उद्यमी और खोजकर्ता हूं। नवाचार के जुनून और जटिल समस्याओं का समाधान खोजने की प्रतिभा के साथ। एक उद्यमी के रूप में, मैंने ऐसे नवीन उत्पाद बनाए हैं जिनका लोगों के जीवन पर सकारात्मक प्रभाव पड़ा है। जब व्यवसाय का निर्माण या समस्याओं को हल नहीं कर रहा होता, तो मुझे दुनिया की खोज करते हुए, नए कारनामों और अनुभवों की तलाश करते हुए पाया जा सकता है। ❤️",
+    "section_name": {
+      "about": "मेरे बारे मेँ",
+      "projects": "हाल ही का काम",
+      "skills": "कौशल",
+      "experience": "अनुभव"
+    }
+  },
+  "projects": [
+    {
+      "title": "Speaker: NodeJs Global Summit",
+      "startDate": "2023",
+      "description": "At the event, I discussed the concept of asynchronous programming in Node.js using threads, event loop, and libuv. I explained how Node.js utilizes a single thread for handling I/O operations and how libuv library allows Node.js to delegate certain tasks to worker threads, thus improving performance. I also talked about the event loop and how it enables Node.js to process multiple tasks efficiently. Additionally, I covered the advantages and trade-offs of using threads and event loop in different scenarios, and shared some best practices for handling concurrency in Node.js. Overall, the discussion provided valuable insights into the inner workings of Node.js and how to write efficient and scalable applications using asynchronous programming techniques.",
+      "images": [
+        "images/portfolio/nodejs-conf/node1.png",
+        "images/portfolio/nodejs-conf/node2.png"
+      ],
+      "url": "https://www.linkedin.com/in/maheshpaliwal/",
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/seGVmqw2vTY?start=6166",
+        "https://www.youtube.com/embed/seGVmqw2vTY?start=7959"
+      ]
+    },
+    {
+      "title": "Demystifying complex problem solving",
+      "startDate": "2022",
+      "description": "In the talk, Mahesh began by defining what constitutes a complex problem, highlighting the various factors that contribute to its complexity, such as ambiguity, uncertainty, and multiple interrelated variables. Mahesh then provided the audience with practical steps to break down these problems into smaller, more manageable components, emphasizing the importance of clear problem definition, gathering relevant data, and collaboration. Mahesh went on to discuss various strategies and frameworks for approaching complex problems, such as the Five Whys, Root Cause Analysis, and Design Thinking, highlighting the benefits and limitations of each approach. Mahesh also discussed the importance of identifying underlying assumptions and biases and how they can impact the problem-solving process. Throughout the talk, Mahesh provided real-world examples of how these strategies can be applied in various industries and situations, making the content highly relatable and accessible to the audience. Overall, the talk was highly informative, and the audience left with a deeper understanding of how to approach and solve complex problems in their personal and professional lives.",
+      "images": [
+        "images/portfolio/dcp/p1.png"
+      ],
+      "url": "https://www.linkedin.com/in/maheshpaliwal/",
+      "technologies": [
+      ]
+    },
+    {
+      "title": "Smart Miner",
+      "startDate": "2019",
+      "description": "Himalaya is a region that is particularly susceptible to landslides due to various factors that affect the stability of the slopes. However, assessing the stability of a slope can be a challenging and time-consuming task for engineers due to the many parameters involved. To address this problem, I have developed the Smart Miner app that provides engineers with a quick and reliable way to assess residual soil and rock slope behavior and identify potential hazardous slopes. The Smart Miner app uses advanced algorithms and machine learning models to predict the risk of slope failure for residual soil and rock, calculate the factor of safety of rock slopes, and classify residual soil. By providing this information, the app helps engineers make informed decisions about slope stability and take the necessary steps to prevent potential disasters. Overall, the Smart Miner app is a valuable tool for engineers working in the Himalayan region and other areas prone to landslides. It helps them save time and resources while ensuring the safety of the public and infrastructure in the area.",
+      "images": [
+        "images/portfolio/sm/p3.jpeg",
+        "images/portfolio/sm/p1.png",
+        "images/portfolio/sm/p2.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-kotlin-plain",
+          "name": "Kotlin"
+        }]
+    },
+    {
+      "title": "SpoonFeeder",
+      "startDate": "2018",
+      "description": "Mahesh built an app with the aim of providing food and shelter to those in need in India. The goal of the app was to help make India a hunger-free country by ensuring that everyone has access to food and shelter. The app features an intuitive and easy-to-use interface, which allows users to easily locate nearby food banks and shelters. The app also includes a feature that enables users to donate to local shelters and organizations, helping to ensure that they have the necessary resources to provide food and shelter to those in need.",
+      "images": [
+        "images/portfolio/spoonfeeder/p2.png",
+        "images/portfolio/spoonfeeder/p4.jpg",
+        "images/portfolio/spoonfeeder/p3.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        }]
+    },
+    {
+      "title": "JeevanDaan",
+      "startDate": "2018",
+      "description": "In the event of a flood, finding safe and suitable shelter is crucial for those affected. To address this need, I have developed an application that helps victims of floods find a safe place to take shelter. The app takes into account the distribution of floods and population across the area, as well as the digital elevation model, to identify safe locations. In addition to finding safe shelter, the app also includes a buffer feature that allows users to investigate the behavior of water flow during a flood in nearby regions of the river. The app also displays the locations where people are most likely to find boats and food packages, providing essential resources to those in need. Moreover, the app can help allocate resources efficiently in flood-affected areas by analyzing population and elevation data. This feature makes disaster management more economical by allowing resources to be allocated where they are most needed. Overall, the flood relief app is a valuable tool for those affected by floods. It provides essential information to help people find safe shelter, access necessary resources, and allocate resources more effectively, making a real difference in the lives of those affected by floods.",
+      "images": [
+        "images/portfolio/jd/p1.jpeg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        }]
+    },{
+      "title": "AUTO DETECTION OF METHANE GAS",
+      "startDate": "2017",
+      "description": "I built an IoT device that measures the concentration of toxic gases. The device is specifically designed for use in underground mines, where toxic gas concentrations can reach dangerous levels. The goal was to provide an automated solution that can take measurements without requiring any manpower, ensuring the safety of miners. To achieve this goal, I designed and built a prototype that is fully automated. The device can take measurements of the concentration of toxic gases and transmit the data wirelessly to a central monitoring system. The device is equipped with sensors that can detect the presence of various gases, including carbon monoxide, methane, and hydrogen sulfide. In addition, the prototype is designed to be rugged and durable, capable of withstanding the harsh conditions of an underground mine.",
+      "images": [
+        "images/portfolio/md/p1.jpeg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-cplusplus-plain",
+          "name": "C++"
+        }]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Blinkit",
+      "title": "Software Engineer",
+      "years": "10.2022 - present",
+      "mainTech": [
+        "Golang", "Python", "Ruby"
+      ],
+      "technologies": [
+        "REST API",
+        "Golang",
+        "Python",
+        "Rails",
+        "Ruby",
+        "Postgresql",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "DynamoDB"
+      ]
+    },
+    {
+      "company": "MamaEarth",
+      "title": "Software Engineer",
+      "years": "12.2020 - 05.2022",
+      "mainTech": [
+        "Nodejs", "Express", "MySQL", "MongoDb"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Algorithms",
+        "Nodejs",
+        "MongoDb",
+        "Software Architectural Design",
+        "Systems Design",
+        "RESTful WebServices",
+        "Redis",
+        "MongoDB",
+        "Low-Level Design",
+        "Microservices",
+        "Object-Oriented Programming (OOP)",
+        "PHP"
+      ]
+    },
+    {
+      "company": "Oye Rickshaw",
+      "title": "Software Engineer",
+      "years": "10.2019 - 05.2020",
+      "mainTech": [
+        "Nodejs", "Express", "MySQL", "Kafka"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Algorithms",
+        "Nodejs",
+        "MongoDb",
+        "Software Architectural Design",
+        "Systems Design",
+        "RESTful WebServices",
+        "Redis",
+        "MongoDB"
+      ]
+    },
+    {
+      "company": "Policybazaar",
+      "title": "Intern",
+      "years": "10.2019 - 05.2020",
+      "mainTech": [
+        "Nodejs"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Algorithms",
+        "Nodejs",
+        "MongoDb"
+      ]
+    },
+    {
+      "company": "Policybazaar",
+      "title": "Summer Intern",
+      "years": "05.2019 - 07.2019",
+      "mainTech": [
+        "Kotlin"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Algorithms",
+        "kotlin",
+        "Java"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Shree Cement Ltd.",
+      "years": "05.2018 - 07.2018",
+      "mainTech": [
+        "Docker"
+      ],
+      "technologies": [
+        "Git",
+        "Docker",
+        "Openstack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+    "basic_info": {
+      "name": "Mahesh Paliwal",
+      "titles": [ "Backend Engineer", "Entrepreneur", "Speaker"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/maheshpaliwal",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/___mappie",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Nodejs",
+          "class": "devicon-nodejs-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "95"
+        },
+        {
+          "name": "Go",
+          "class": "devicon-go-original-wordmark colored",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Ruby",
+          "class": "devicon-ruby-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Kafka",
+          "class": "devicon-apachekafka-original colored",
+          "level": "95"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "MongoDb",
+          "class": "devicon-mongodb-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Postgres",
+          "class": "devicon-sequelize-plain colored",
+          "level": "95"
+        }
+      ]
+    }
+  }
