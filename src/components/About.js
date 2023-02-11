@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
-      var profilepic = "images/" + this.props.sharedBasicInfo.image;
+      var profilepic = "https://ik.imagekit.io/ctraedfvm/myProfile.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1676140943908";
     }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
