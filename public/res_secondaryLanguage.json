@@ -31,6 +31,19 @@
       ]
     },
     {
+      "title": "Stability Prediction of Residual Soil and Rock Slope",
+      "startDate": "2022",
+      "description": "There are various problems associated with calculating the factor of safety of the hills in the Himalayan region. Various tests are to be performed, which are very time consuming and expensive. As by nature, the slopes are not uniform. There can be a sudden change in the geomaterial (soil to rock and vice versa) within a few hundred meters. Thus, carrying out conventional geotechnical investigations over a stretch having several rocks and soil slope is very cumbersome. An effort has been made to quickly identify the stability of both the rock slope and residual soil slope. Numerical simulation results from previous studies on residual soil and rock slope were used to develop the ANN models. Various performance indices were used to highlight the high efficiency of the developed ANN models. The developed ANN models were further used to develop a mobile application for slope stability assessment.",
+      "images": [
+        "https://ik.imagekit.io/ctraedfvm/portfolio/ai/p1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1676209014235",
+        "https://ik.imagekit.io/ctraedfvm/portfolio/ai/p2.png",
+        "https://ik.imagekit.io/ctraedfvm/portfolio/ai/p3.png"
+      ],
+      "url": "https://www.hindawi.com/journals/ace/2022/4121193/?utm_medium=author&utm_source=Hindawi",
+      "technologies": [
+      ]
+    },
+    {
       "title": "Demystifying complex problem solving",
       "startDate": "2022",
       "description": "In the talk, Mahesh began by defining what constitutes a complex problem, highlighting the various factors that contribute to its complexity, such as ambiguity, uncertainty, and multiple interrelated variables. Mahesh then provided the audience with practical steps to break down these problems into smaller, more manageable components, emphasizing the importance of clear problem definition, gathering relevant data, and collaboration. Mahesh went on to discuss various strategies and frameworks for approaching complex problems, such as the Five Whys, Root Cause Analysis, and Design Thinking, highlighting the benefits and limitations of each approach. Mahesh also discussed the importance of identifying underlying assumptions and biases and how they can impact the problem-solving process.Throughout the talk, Mahesh provided real-world examples of how these strategies can be applied in various industries and situations, making the content highly relatable and accessible to the audience. Overall, the talk was highly informative, and the audience left with a deeper understanding of how to approach and solve complex problems in their personal and professional lives.",
@@ -77,19 +90,6 @@
         }]
     },
     {
-      "title": "JeevanDaan",
-      "startDate": "2018",
-      "description": "In the event of a flood, finding safe and suitable shelter is crucial for those affected. To address this need, I have developed an application that helps victims of floods find a safe place to take shelter. The app takes into account the distribution of floods and population across the area, as well as the digital elevation model, to identify safe locations. In addition to finding safe shelter, the app also includes a buffer feature that allows users to investigate the behavior of water flow during a flood in nearby regions of the river. The app also displays the locations where people are most likely to find boats and food packages, providing essential resources to those in need. Moreover, the app can help allocate resources efficiently in flood-affected areas by analyzing population and elevation data. This feature makes disaster management more economical by allowing resources to be allocated where they are most needed. Overall, the flood relief app is a valuable tool for those affected by floods. It provides essential information to help people find safe shelter, access necessary resources, and allocate resources more effectively, making a real difference in the lives of those affected by floods.",
-      "images": [
-        "https://ik.imagekit.io/ctraedfvm/portfolio/jd/p1.jpeg"
-      ],
-      "url": "",
-      "technologies": [
-        {
-          "class": "devicon-python-plain",
-          "name": "Python"
-        }]
-    },{
       "title": "AUTO DETECTION OF METHANE GAS",
       "startDate": "2017",
       "description": "I built an IoT device that measures the concentration of toxic gases. The device is specifically designed for use in underground mines, where toxic gas concentrations can reach dangerous levels. The goal was to provide an automated solution that can take measurements without requiring any manpower, ensuring the safety of miners. To achieve this goal, I designed and built a prototype that is fully automated. The device can take measurements of the concentration of toxic gases and transmit the data wirelessly to a central monitoring system. The device is equipped with sensors that can detect the presence of various gases, including carbon monoxide, methane, and hydrogen sulfide. In addition, the prototype is designed to be rugged and durable, capable of withstanding the harsh conditions of an underground mine.",
